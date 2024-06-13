@@ -1,0 +1,28 @@
+.container .btn {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size:  x-large;
+    font-weight: bold;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: azure;
+  }
+
+  .container {
+    position: relative;
+    width: 50%;
+  }
+  li{
+text-decoration: none;
+  
+  }  
+  a:hover
+  {
+color: crimson;
+
+  }
